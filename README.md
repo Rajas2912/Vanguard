@@ -69,7 +69,7 @@ This system has been submitted for **patent publication** for its novel integrat
 
 ## 📸 Demo / Screenshots
 
-https://imagekit.io/public/share/lsjvrmtvi3/2cdb330fe7b9fac600f634b695729c3517947d28f80692fe97224c83cc77767dcd6541c1bf788e8a9bb52f8eca89d2ef6fb77036a3f13e34e91599c2f0e5e78ede095f290ca41e6a125ffb099d0a2e26
+![Project Overview](https://ik.imagekit.io/lsjvrmtvi3/image.png?updatedAt=1747678060452)
 
 ---
 
